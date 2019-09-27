@@ -1,2 +1,2 @@
 # earthquakedashboard
-Afad verilerini çekerek, Türkiye'deki afad verilerini kullanarak ekranda gösteren uygulama.
+Afad verilerini çekerek, Türkiye'deki deprem verilerini ekranda listeleyen uygulama.
