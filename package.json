@@ -1,0 +1,16 @@
+{
+  "name": "deprem-app",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "misaliperver",
+  "license": "MIT",
+  "dependencies": {
+    "express": "latest",
+    "body-parser": "latest",
+    "node-fetch": "latest"
+  }
+}
